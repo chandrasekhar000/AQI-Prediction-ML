@@ -1,6 +1,6 @@
-##🌍 Air Quality Index (AQI) Prediction using Machine Learning
+#🌍 Air Quality Index (AQI) Prediction using Machine Learning
 
-## 📌 Overview
+# 📌 Overview
 
 This project is an end-to-end Machine Learning application that predicts the **Air Quality Index (AQI)** using environmental pollutant data. The project focuses on data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and performance evaluation using multiple machine learning algorithms.
 
